@@ -5,8 +5,6 @@
 ## 🔗 Live Demo/Website Link
 [ Todo List ](https://todolist-g9wn.onrender.com)
 
-<img src="https://drive.google.com/uc?export=view&id=1iJieUY28sKM8HUR_ZKhyEv-aiNX4U_dC" alt="Adding Items Img" width="300px">
-
 
 ## Technology Used
 - HTML
@@ -39,14 +37,15 @@ A todo list web application which supports basic CRUD operations like create, re
 
 ▶ Adding Items in Todo List ◀
 
-![Adding Items Img](https://drive.google.com/uc?export=view&id=1iJieUY28sKM8HUR_ZKhyEv-aiNX4U_dC)
+<img src="https://drive.google.com/uc?export=view&id=1iJieUY28sKM8HUR_ZKhyEv-aiNX4U_dC" alt="Adding Items Img" width="500px">
 
 
 
 ▶ Deleting Items in Todo List ◀
 
-![Deleting Items Img](https://drive.google.com/uc?export=view&id=1porxAUnX4u0eWN_YyimSQu7NiTh3yAXS)
+
+<img src="https://drive.google.com/uc?export=view&id=1porxAUnX4u0eWN_YyimSQu7NiTh3yAXS" alt="Deleting Items Img" width="500px">
 
 ▶ FullScreen View After showing all Operations ◀
 
-![Dark Mode - Not YT Playlist](https://drive.google.com/uc?export=view&id=17Q_MuugF277xATRKyGYiBiAgGyebNnqD)
+![All Opeartions Done Img](https://drive.google.com/uc?export=view&id=17Q_MuugF277xATRKyGYiBiAgGyebNnqD)
